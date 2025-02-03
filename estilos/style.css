@@ -1,0 +1,25 @@
+
+
+/* Paleta de cores:
+
+    Verde: #49a09d
+    Lilás: #5f2c82
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100vh;
+}
+
+#imagem {
+    width: 200px;
+    height: 200px;
+    background: black url('../imagens/paisagem.jpg') center center no-repeat fixed;
+    background-size: cover;
+
+}
