@@ -1,2 +1,1 @@
-# Desafio-Login
- 
+Aqui contém os arquivos de um dos exercícios/desafios do curso de HTML/CSS do CursoemVideo feito por mim e que consiste basicamente em uma página de login responsiva, que se adapta ao tamanho da tela do dispositivo, servindo tanto para celulares, tablets, desktops e televisões.
